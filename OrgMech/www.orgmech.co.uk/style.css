@@ -1,0 +1,85 @@
+BODY {
+	FONT-WEIGHT: 600; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+A {
+	COLOR:000000; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 13px;
+}
+A:hover {
+	COLOR:000000; TEXT-DECORATION: underline;font-weight:bold;FONT-SIZE: 13px;
+}
+
+
+A.td {
+	COLOR:1F527B; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 13px;
+}
+A.td:hover {
+	COLOR:1F527B; TEXT-DECORATION: underline;font-weight:bold;FONT-SIZE: 13px;
+}
+A.pass {
+	COLOR:ffffff; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 9px;
+}
+A.pass:hover {
+	COLOR:ffffff; TEXT-DECORATION: underline;font-weight:bold;FONT-SIZE: 9px;
+}
+
+tr.tit {
+	Background-COLOR:2C3E73; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 14px;color:ffffff;
+}
+tr.search {
+	Background-COLOR:E5E5E5; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 9px;color:ffffff;
+}
+INPUT {
+	BORDER-RIGHT: #cfceaf 1px solid; BORDER-TOP: #cfceaf 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cfceaf 1px solid; COLOR: #666666; BORDER-BOTTOM: #cfceaf 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fdfdfb
+}
+tr.gap {
+	Background-COLOR:D5D5D5; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 9px;color:ffffff;
+}
+A.link {
+	COLOR:666666; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 12px;
+}
+A.link:hover {
+	COLOR:000000; TEXT-DECORATION: underline;font-weight:bold;FONT-SIZE: 12px;
+}
+td.main {
+	Background-COLOR:ffffff; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 14px;color:00008b;
+}
+td.title {
+	Background-COLOR:ffffff; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 14px;color:000000;
+}
+
+td.clicked {
+	COLOR:000000; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 12px;
+}
+A.cat {
+	COLOR:666666; TEXT-DECORATION: none;FONT-SIZE: 12px;
+}
+A.cat:hover {
+	COLOR:000000; TEXT-DECORATION: underline;FONT-SIZE: 12px;
+}
+h3 {
+	TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 15px;color:000000;
+}
+A.linkmech {
+	COLOR:385270; TEXT-DECORATION: none;FONT-SIZE: 12px;
+}
+A.linkmech:hover {
+	COLOR:385270; TEXT-DECORATION: underline;FONT-SIZE: 12px;}
+	
+	td.detail {
+	COLOR:576C85; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 9px;
+}
+A.errata {
+	COLOR:ff0000; TEXT-DECORATION: none;FONT-SIZE: 9px;
+}
+A.errata:hover {
+	COLOR:ff0000; TEXT-DECORATION: underline;FONT-SIZE: 9px;}
+	
+	tr.statit {
+	Background-COLOR:2C3E73; TEXT-DECORATION: none;font-weight:bold;FONT-SIZE: 14px;color:ffffff;
+}
+tr.stat {
+	TEXT-DECORATION: none;FONT-SIZE: 14px;color:000000;
+}
+td.shade {
+	Background-COLOR:EFF1F4; 
+}
