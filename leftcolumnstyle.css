@@ -1,0 +1,50 @@
+#leftcolumn {
+	height: 100%;
+	width: 20%; 
+	padding-top: 0.5em;
+}
+
+#leftcolumn td {
+	font-family: Helvetica, Arial, sans-serif;
+	padding-left: 1em;
+	font-size: 1em;
+	padding-top: 0.5em;
+	text-decoration: none;
+}
+
+#maincol {
+	height: 100%;
+	width: 80%;
+	padding-top: 0.5em;
+}
+	
+#maincol td {
+	font-family: Helvetica, Arial, sans-serif;
+	padding-left: 1.5em;
+	font-size: 1em;
+	padding-top: 0.5em;
+}		
+
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	background-color: #fcfaf0;
+}
+
+#headerbar {
+	width: 100%;
+	height: 6em;
+	background-color: #ffc800;
+}
+
+#headerbar a {
+	padding-left: 1em;
+}
+
+#subbar {
+	width: 100%;
+	height: 1em;
+	background-color: #e0ddce;
+}
+
